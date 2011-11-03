@@ -1,3 +1,5 @@
 Shoutcast PHP 5.3.3+ class
 
+Requires cURL 
+
 Supports Shoutcast v.2
