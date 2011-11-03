@@ -1,10 +1,5 @@
 <?php
 
-/**
- * Shoutcast 
- * Class for reading the SHOUTcast XML file 
- * @author Wavestreaming http://Wavestreaming.com
- */
 class Shoutcast
 {
 
